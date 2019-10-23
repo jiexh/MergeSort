@@ -1,4 +1,4 @@
-package sort;
+//package com.jx;
 
 import java.util.Arrays;
 // Time: 平均：O(n log n)       最坏：O(n log n)       最好：O(n log n)
